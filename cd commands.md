@@ -1,3 +1,5 @@
+cd command
+
 cd command in linux known as change directory command. It is used to change current working directory. 
 
 Syntax:  
